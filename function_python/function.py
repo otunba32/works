@@ -3,4 +3,4 @@ def greet(name):
     '''
     print('Good day {}'.format(name)
 
-greet(name)
+greet()
